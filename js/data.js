@@ -1,4 +1,5 @@
 const data = [
-    { slno: 1, title: 'AWS', category:'AWS', date: '21 Sep, 2021', blogLink: 'https://aws.amazon.com' },
+    { slno: 1, title: 'AWS - Intro', category:'AWS', date: '29 July, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/aws-introduction' },
+     { slno: 2, title: 'AWS - Cloud Concept', category:'AWS', date: '29 July, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/cloud-concepts' },
     // Add more objects as needed
 ];
