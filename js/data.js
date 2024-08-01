@@ -4,5 +4,6 @@ const data = [
     { slno: 3, title: 'Typesript - Intro', category:'Typescript', date: '30 July, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/typescript-introduction'},
     { slno: 4, title: 'Data Structure with Js - Intro', category:'DSA', date: '31 July, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/data-structures-with-javascript---big-o'},
     { slno: 5, title: 'Sun Tzu’s The Art of War - Chapter 1', category:'The Art of War', date: '31 July, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/sun-tzus-the-art-of-war'},
+    { slno: 6, title: 'Reddit Clone - 1', category:'Next Js', date: '1 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/reddit-clone-1'},
     // Add more objects as needed
 ];
