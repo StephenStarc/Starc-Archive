@@ -11,5 +11,6 @@ const data = [
     { slno: 10, title: 'Java Introduction', category:'Java', date: '3 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java---introduction-1'},
     { slno: 11, title: 'Data Structure - O(n2)', category:'DSA', date: '4 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/dsa-lesson-2'},
     { slno: 12, title: 'Java - Lesson 2', category:'Java', date: '5 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java---printing-and-comments-lesson-2'},
+    { slno: 13, title: 'Java - Method Changed', category:'Java', date: '6 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-learning-method-changed'},
     // Add more objects as needed
 ];
