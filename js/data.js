@@ -16,5 +16,7 @@ const data = [
     { slno: 15, title: 'Java - Variable Lesson - 4', category:'Java', date: '8 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-variables-lesson-4'},
     { slno: 16, title: 'Java Data Type | Lesson  5', category:'Java', date: '9 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-data-type-lesson-5'},
     { slno: 17, title: 'Java - Type Casting | Lesson  6', category:'Java', date: '10 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-type-casting-lesson-6'},
+    { slno: 18, title: 'Java - Operators (Unary) | Lesson 7', category:'Java', date: '11 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java---operators-unary-lesson-7'},
+    { slno: 19, title: 'Java - Operators Part - 2 | Lesson 8', category:'Java', date: '11 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java---operators-part---2-lesson-8'},
     // Add more objects as needed
 ];
