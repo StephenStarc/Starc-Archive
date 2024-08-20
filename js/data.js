@@ -21,7 +21,7 @@ const data = [
     { slno: 20, title: 'Java - Operators Part - 3 Bitwise Operator | Lesson 9', category:'Java', date: '13 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java---operator-part--3---bitwise-operator-lesson-9'},
     { slno: 21, title: 'Java - Java - Keywords | Lesson 10', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java---keywords-lesson-10'},
     { slno: 22, title: 'Java Control Statements | Control Flow in Java | Lesson 11', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-control-statements-control-flow-in-java-lesson-11'},
-    { slno: 23, title: 'Java - Java - Keywords | Lesson 10', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java---keywords-lesson-10'},
+    { slno: 23, title: 'Java - Java - Mistake and Revise | Lesson 12', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-lesson-12-mistake-and-revise'},
     { slno: 24, title: 'Java - Java - Keywords | Lesson 10', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java---keywords-lesson-10'},
     // Add more objects as needed
 ];
