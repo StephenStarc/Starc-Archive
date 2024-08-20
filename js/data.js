@@ -22,6 +22,6 @@ const data = [
     { slno: 21, title: 'Java - Java - Keywords | Lesson 10', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java---keywords-lesson-10'},
     { slno: 22, title: 'Java Control Statements | Control Flow in Java | Lesson 11', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-control-statements-control-flow-in-java-lesson-11'},
     { slno: 23, title: 'Java - Java - Mistake and Revise | Lesson 12', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-lesson-12-mistake-and-revise'},
-    { slno: 24, title: 'Java - Java - Keywords | Lesson 10', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java---keywords-lesson-10'},
+    { slno: 24, title: 'Java - Java - Literals | Lesson 13', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-lesson-13-literals'},
     // Add more objects as needed
 ];
