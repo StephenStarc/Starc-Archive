@@ -26,5 +26,6 @@ const data = [
     { slno: 25, title: 'Java - Switch Statement | Lesson 14', category:'Java', date: '24 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-lesson-14-switch-statement'},
     { slno: 26, title: 'Java - Loops | Lesson 15', category:'Java', date: '24 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-lesson-15-loops'},
     { slno: 27, title: 'Git - Introduction | Lesson - 1', category:'Git', date: '24 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/git---introduction-lesson---1'},
+    { slno: 28, title: 'Git - Commits & Help | Lesson - 2', category:'Git', date: '24 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/git---commits-lesson---2'},
     // Add more objects as needed
 ];
