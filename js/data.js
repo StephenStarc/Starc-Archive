@@ -23,5 +23,6 @@ const data = [
     { slno: 22, title: 'Java Control Statements | Control Flow in Java | Lesson 11', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-control-statements-control-flow-in-java-lesson-11'},
     { slno: 23, title: 'Java - Java - Mistake and Revise | Lesson 12', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-lesson-12-mistake-and-revise'},
     { slno: 24, title: 'Java - Java - Literals | Lesson 13', category:'Java', date: '20 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-lesson-13-literals'},
+    { slno: 25, title: 'Java - Java - Switch Statement | Lesson 14', category:'Java', date: '24 August, 2024', blogLink: 'https://starc-blogs-eac032.webflow.io/posts/java-lesson-14-switch-statement'},
     // Add more objects as needed
 ];
