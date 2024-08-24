@@ -28,5 +28,6 @@ const data = [
     { slno: 27, title: 'Git - Introduction | Lesson 1', category:'Git', date: '24 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/git---introduction-lesson---1'},
     { slno: 28, title: 'Git - Commits & Help | Lesson 2', category:'Git', date: '24 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/git---commits-lesson---2'},
     { slno: 29, title: 'Git - Branch | Lesson 3', category:'Git', date: '24 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/git---branch-lesson-3'},
+    { slno: 30, title: 'Git - Branch Merge Lesson 4', category:'Git', date: '24 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/git---branch-merge-merge-conflict-and-delete-lesson---4'},
     // Add more objects as needed
 ];
