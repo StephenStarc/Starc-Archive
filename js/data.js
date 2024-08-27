@@ -33,5 +33,7 @@ const data = [
     { slno: 32, title: 'GitHub - Push & Branch | Lesson - 6', category:'Github', date: '25 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/github---push-branch-lesson---6'},
     { slno: 33, title: 'Pull Branch from GitHub | Lesson 7', category:'Github', date: '25 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/pull-branch-from-github-lesson-7'},
     { slno: 34, title: 'Push Branch to GitHub | Lesson 8', category:'Github', date: '25 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/push-branch-to-github-lesson-8'},
+    { slno: 35, title: 'Java | Break | Lesson 16', category:'Java', date: '27 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-break-lesson-16'},
+    
     // Add more objects as needed
 ];
