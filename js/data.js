@@ -34,6 +34,7 @@ const data = [
     { slno: 33, title: 'Pull Branch from GitHub | Lesson 7', category:'Github', date: '25 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/pull-branch-from-github-lesson-7'},
     { slno: 34, title: 'Push Branch to GitHub | Lesson 8', category:'Github', date: '25 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/push-branch-to-github-lesson-8'},
     { slno: 35, title: 'Java | Break | Lesson 16', category:'Java', date: '27 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-break-lesson-16'},
-     { slno: 35, title: 'Java | Continue | Lesson 17', category:'Java', date: '27 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java---continue-lesson-17'},
+    { slno: 36, title: 'Java | Continue | Lesson 17', category:'Java', date: '27 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java---continue-lesson-17'},
+    { slno: 37, title: 'Java OOPs Concepts | Lesson 18 | Chapter - 2', category:'Java', date: '29 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-oops-concepts-lesson-18-chapter---2'},
     // Add more objects as needed
 ];
