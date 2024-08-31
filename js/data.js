@@ -37,5 +37,6 @@ const data = [
     { slno: 36, title: 'Java | Continue | Lesson 17', category:'Java', date: '27 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java---continue-lesson-17'},
     { slno: 37, title: 'Java OOPs Concepts | Lesson 18 | Chapter - 2', category:'Java', date: '29 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-oops-concepts-lesson-18-chapter---2'},
     { slno: 38, title: 'Java Naming Convention | Lesson 19', category:'Java', date: '31 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-naming-convention-lesson-19'},
+    { slno: 39, title: 'Java Objects and Classes | Lesson 20', category:'Java', date: '31 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-objects-and-classes-lesson-20'},
     // Add more objects as needed
 ];
