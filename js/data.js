@@ -40,5 +40,6 @@ const data = [
     { slno: 39, title: 'Java Objects and Classes | Lesson 20', category:'Java', date: '31 August, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-objects-and-classes-lesson-20'},
     { slno: 40, title: '*Why we need learn different ways to Initialize object', category:'Java', date: '1 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/why-we-need-learn-different-ways-to-initialize-object-lesson-21'},
     { slno: 41, title: 'Java Constructors | Lesson 22', category:'Java', date: '1 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-constructors-lesson-22'},
+    { slno: 42, title: 'Java Copy Constructor | Lesson 23', category:'Java', date: '3 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-copy-constructor-lesson-23'},
     // Add more objects as needed
 ];
