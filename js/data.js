@@ -43,5 +43,6 @@ const data = [
     { slno: 42, title: 'Java Copy Constructor | Lesson 23', category:'Java', date: '3 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-copy-constructor-lesson-23'},
     { slno: 43, title: 'Java Method | Lesson 24', category:'Java', date: '7 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-method-lesson-24'},
     { slno: 44, title: 'Java Static keyword | Lesson 25', category:'Java', date: '7 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-static-keyword-lesson-25'},
+    { slno: 45, title: 'Java this keyword | Lesson 26', category:'Java', date: '8 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-this-keyword-lesson-26'},
     // Add more objects as needed
 ];
