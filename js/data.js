@@ -44,5 +44,7 @@ const data = [
     { slno: 43, title: 'Java Method | Lesson 24', category:'Java', date: '7 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-method-lesson-24'},
     { slno: 44, title: 'Java Static keyword | Lesson 25', category:'Java', date: '7 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-static-keyword-lesson-25'},
     { slno: 45, title: 'Java this keyword | Lesson 26', category:'Java', date: '8 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-this-keyword-lesson-26'},
+    { slno: 46, title: 'Java Inheritance | Lesson 27', category:'Java', date: '9 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-inheritance-lesson-27'},
+    { slno: 47, title: 'Java Aggregation | Lesson 28', category:'Java', date: '9 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-aggregation-lesson-28'},
     // Add more objects as needed
 ];
