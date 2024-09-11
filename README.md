@@ -1,15 +1,15 @@
+Sure, here is the revised text:
+
 # Starc Archive
-I made the site to keep track of all the new things i learn or added to my blog and also for adding commits every day so i get the green box in my profile. (I know, I know that's low. I got Issues)
+I created this site to keep track of all the new things I learn or add to my blog. I also use it to add commits every day so that I can get the green box in my profile (I know, I know, that's low. I got Issues).
 
-Well anyways. I am planing on Learning new things every day so i can create something amazing on my own or got hired in high paying job either way i want to learn many things.
+Anyway, I plan to learn new things every day to create something amazing on my own or get hired in a high-paying job. Either way, I want to learn many things. I have a huge list of things I want to learn.
 
-I got huge list of things i want to learn.
+I am thrilled to start this journey.
 
-I am thirlled to start this journey.
+See you later...
 
-See you Later......
-
-I am using free webflow site plan, so when i reach my limt on how many post i can create. I have to create a new site.
+I am using the free webflow site plan, so I have to create a new site when I reach my limit on how many posts I can make.
 
 Starc Archive Links:
 1. Starc Archive 1 - https://starc-blogs-eac032.webflow.io/
