@@ -47,5 +47,6 @@ const data = [
     { slno: 46, title: 'Java Inheritance | Lesson 27', category:'Java', date: '9 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-inheritance-lesson-27'},
     { slno: 47, title: 'Java Aggregation | Lesson 28', category:'Java', date: '9 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-aggregation-lesson-28'},
     { slno: 48, title: 'Best GitHub practice when working on a Codebase', category:'Git', date: '10 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/best-github-practice-when-working-on-a-codebase'},
+    { slno: 49, title: 'Java Copy Constructor | Lesson 23', category:'Java', date: '12 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-copy-constructor-lesson-23'},
     // Add more objects as needed
 ];
