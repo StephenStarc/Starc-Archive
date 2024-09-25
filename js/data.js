@@ -50,5 +50,6 @@ const data = [
     { slno: 49, title: 'Java Copy Constructor | Lesson 23', category:'Java', date: '12 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-copy-constructor-lesson-23'},
     { slno: 50, title: 'Java Method Overriding | Lesson 30', category:'Java', date: '17 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-method-overriding-lesson-30'},
     { slno: 51, title: 'Java Super Keyword | Lesson 31', category:'Java', date: '17 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-super-keyword-lesson-31'},
+    { slno: 52, title: 'Java Instance initializer block | Lesson 32', category:'Java', date: '25 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-instance-initializer-block-lesson-32'},
     // Add more objects as needed
 ];
