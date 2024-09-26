@@ -20,4 +20,4 @@ So, yeah here we are. i want to see all data in simple site. so used the pubilc 
 
 12.9.24 - Hooray! No need to have multiple Webflow sites anymore. I have created a brand new article site from scratch using React and Firebase. It has sufficient features to create and store articles, but it's not enough. I plan to create something even better in the future. For now, this is good. Check out our new article site - <a href="https://starc-archive.netlify.app/">Starc Article</a>
 
-I can make both public and private posts within one site, eliminating the need for multiple sites. However, the posts are separated into their own repositories. For Now, we will use all the available space on the free webflow site we are currently using, and when that's full, we will move to a new site.
+I can make both public and private posts within one site, eliminating the need for multiple sites. However, the posts are separated into their own repositories. For Now, we will use all the available space on the free webflow site we are currently using, and when that's full, we will move to a new site..
