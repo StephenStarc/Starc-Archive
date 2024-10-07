@@ -51,6 +51,7 @@ const data = [
     { slno: 50, title: 'Java Method Overriding | Lesson 30', category:'Java', date: '17 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-method-overriding-lesson-30'},
     { slno: 51, title: 'Java Super Keyword | Lesson 31', category:'Java', date: '17 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-super-keyword-lesson-31'},
     { slno: 52, title: 'Java Instance initializer block | Lesson 32', category:'Java', date: '25 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-instance-initializer-block-lesson-32'},
-    { slno: 53, title: 'Draw Lines | Lesson 1 | Chapter 1', category:'Drawing', date: '25 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/draw-lines-lesson-1-chapter-1'},  
+    { slno: 53, title: 'Draw Lines | Lesson 1 | Chapter 1', category:'Drawing', date: '25 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/draw-lines-lesson-1-chapter-1'},
+     { slno: 54, title: 'Reddit Clone | Part - 2 | Database Setup', category:'Reddit Clone', date: '7 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/reddit-clone-part---2-database-setup'}, 
     // Add more objects as needed
 ];
