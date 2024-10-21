@@ -52,6 +52,10 @@ const data = [
     { slno: 51, title: 'Java Super Keyword | Lesson 31', category:'Java', date: '17 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-super-keyword-lesson-31'},
     { slno: 52, title: 'Java Instance initializer block | Lesson 32', category:'Java', date: '25 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-instance-initializer-block-lesson-32'},
     { slno: 53, title: 'Draw Lines | Lesson 1 | Chapter 1', category:'Drawing', date: '25 September, 2024', blogLink: 'https://starc-archive.webflow.io/posts/draw-lines-lesson-1-chapter-1'},
-     { slno: 54, title: 'Reddit Clone | Part - 2 | Database Setup', category:'Reddit Clone', date: '7 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/reddit-clone-part---2-database-setup'}, 
+    { slno: 54, title: 'Reddit Clone | Part - 2 | Database Setup', category:'Reddit Clone', date: '7 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/reddit-clone-part---2-database-setup'}, 
+    { slno: 55, title: 'Java Final Keyword | Lesson 33', category:'Java', date: '21 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-final-keyword-lesson-33'},
+    { slno: 56, title: 'Java Polymorphism | Lesson 34', category:'Java', date: '21 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-polymorphism-lesson-34'},
+    { slno: 57, title: 'Java Static Binding and Dynamic Binding | Lesson 35', category:'Java', date: '21 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-static-binding-and-dynamic-binding-lesson-35'},
+    { slno: 58, title: 'Java instanceof | Lesson 36', category:'Java', date: '21 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-instanceof-lesson-36'},
     // Add more objects as needed
 ];
