@@ -57,5 +57,7 @@ const data = [
     { slno: 56, title: 'Java Polymorphism | Lesson 34', category:'Java', date: '21 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-polymorphism-lesson-34'},
     { slno: 57, title: 'Java Static Binding and Dynamic Binding | Lesson 35', category:'Java', date: '21 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-static-binding-and-dynamic-binding-lesson-35'},
     { slno: 58, title: 'Java instanceof | Lesson 36', category:'Java', date: '21 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-instanceof-lesson-36'},
+    { slno: 59, title: 'Java Abstract class | Lesson 37', category:'Java', date: '23 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-abstract-class-lesson-37'},
+    { slno: 60, title: 'Java Interface | Lesson 38', category:'Java', date: '23 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-interface-lesson-38'},
     // Add more objects as needed
 ];
