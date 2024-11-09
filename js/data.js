@@ -60,5 +60,6 @@ const data = [
     { slno: 59, title: 'Java Abstract class | Lesson 37', category:'Java', date: '23 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-abstract-class-lesson-37'},
     { slno: 60, title: 'Java Interface | Lesson 38', category:'Java', date: '23 october, 2024', blogLink: 'https://starc-archive.webflow.io/posts/java-interface-lesson-38'},
     { slno: 61, title: 'Basic Math for Checking Prime', category:'Math', date: '7 November, 2024', blogLink: 'https://starc-archive.netlify.app/post/RdOakFHFSqxP11HJAbHR'},
+    { slno: 62, title: 'Data Structure | Linked List | Lesson 2', category:'DSA', date: '9 November, 2024', blogLink: 'https://starc-archive-fc09ee.webflow.io/posts/data-structure-ll-intro'},
     // Add more objects as needed
 ];
