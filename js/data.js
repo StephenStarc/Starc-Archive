@@ -62,4 +62,6 @@ const data = [
     { slno: 61, title: 'Basic Math for Checking Prime', category:'Math', date: '7 November, 2024', blogLink: 'https://starc-archive.netlify.app/post/RdOakFHFSqxP11HJAbHR'},
     { slno: 62, title: 'Data Structure | Linked List | Lesson 2', category:'DSA', date: '9 November, 2024', blogLink: 'https://starc-archive-fc09ee.webflow.io/posts/data-structure-ll-intro'},
     { slno: 63, title: 'Data Structure | Problem-Solving Pattern | Lesson 3', category:'DSA', date: '12 November, 2024', blogLink: 'https://starc-archive.webflow.io/posts/problem-solving-pattern-frequency-counter-pattern'},
+    { slno: 64, title: 'Multiple Pointers Pattern | DSA Problem Solving Pattern Lesson 4', category:'DSA', date: '23 November, 2024', blogLink: 'https://starc-archive-fc09ee.webflow.io/posts/multiple-pointers-pattern-dsa-problem-solving-pattern'},
+    { slno: 65, title: 'Sliding Window Pattern | DSA Lesson 5', category:'DSA', date: '23 November, 2024', blogLink: 'https://starc-archive-fc09ee.webflow.io/posts/sliding-window-pattern-dsa---problem-solving-pattern'},
 ];
